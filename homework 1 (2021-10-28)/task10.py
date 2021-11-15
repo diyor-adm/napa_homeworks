@@ -1,0 +1,5 @@
+num1 = int(input('Enter 1st num: '))
+num2 = int(input('Enter 2nd num: '))
+num3 = int(input('Enter 3rd num: '))
+num4 = int(input('Enter 4th num: '))
+print('Max is', max(num1, num2, num3, num4))
